@@ -72,6 +72,8 @@
     "teen_process": "^1.14.1"
   },
   "files": [
+    "index.js",
+    "lib",
     "build/index.js",
     "build/lib",
     "Scripts/build.sh",
